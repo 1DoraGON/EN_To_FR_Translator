@@ -1,2 +1,2 @@
 ﻿# EN_To_FR_Translator
-English To France Translator using transformers fine-tuning
+English To French Translator using transformers fine-tuning
